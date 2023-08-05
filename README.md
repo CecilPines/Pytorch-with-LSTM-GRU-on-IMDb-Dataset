@@ -10,4 +10,4 @@
 ## 补充说明
 1. 本实验藉由colab完成，使用相关库版本详情参见colab相关文档。
 2. 可更改epoch变量来使代码运行训练或测试更多的epoch。
-3. 使用数据集为aclImdb_v1.tar.gz一并上传，在使用代码过程中注意更改文件路径
+3. 使用数据集为aclImdb_v1.tar.gz可在官网下载https://ai.stanford.edu/~amaas/data/sentiment/，在使用代码过程中注意更改文件路径
